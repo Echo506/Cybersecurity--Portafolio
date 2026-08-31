@@ -5,6 +5,7 @@ This marks my **first approach to Portuguese**, and to familiarize myself with t
 -----
 
 # 🔗 **References:**
+ * [Portuguese for Advance Students - My Drive](https://drive.google.com/drive/folders/1wJSUb-SpueXdE4rhadNv6dpvzsF9pkg1)
 
   * [Portuguese for Absolute Beginners - LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fportuguese-for-absolute-beginners%3Ftrk%3Dshare_ent_url%26shareId%3D7lcs%252BwB9Rj6ZzxBpMK7AXw%253D%253D)
 
