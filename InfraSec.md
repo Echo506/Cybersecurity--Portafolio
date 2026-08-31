@@ -132,10 +132,6 @@ Generation of an HTML report to help organize findings and support follow-up act
 
 > The following evidence reflects the current documentation stage of the project. Additional screenshots and updated results can be added over time.
 
-## Evidence
-
-> The following evidence reflects the current documentation stage of the project. Additional screenshots and updated results can be added over time.
-
 ### Script Execution
 
 ![InfraSec Execution](images/Captura%20de%20pantalla%20de%202026-08-30%2023-56-27.png)
@@ -144,13 +140,13 @@ Generation of an HTML report to help organize findings and support follow-up act
 
 ### HTML Report
 
-![InfraSec Findings](images/Captura%20de%20pantalla%20de%202026-08-30%2023-57-55.png)
+![InfraSec Report](images/Captura%20de%20pantalla%20de%202026-08-31%2000-00-47.png)
 
 **Figure 2.** Generated HTML report after the security audit.
 
 ### Findings Example
 
-![InfraSec Report](images/Captura%20de%20pantalla%20de%202026-08-31%2000-00-47.png)
+![InfraSec Findings](images/Captura%20de%20pantalla%20de%202026-08-30%2023-57-55.png)
 
 **Figure 3.** Example of findings identified during the endpoint security review.
 
@@ -190,7 +186,7 @@ This provides documented technical evidence of the project design and intended e
 
 ### Future Link
 
-[Watch the full walkthrough on YouTube](PASTE-YOUR-YOUTUBE-LINK-HERE)
+YouTube walkthrough link will be added here once the video is published.
 
 ## Portfolio Value
 
