@@ -40,3 +40,43 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 | 🇧🇷 **Portuguese** | [Content and learning in Portuguese.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Portugues.md) |
 | 🇨🇳 **Chinese** | [My progress and resources in the Chinese language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Chinesse.md) |
 ```
+
+---
+## 
+**My Certifications and Courses:**
+| Category | Description |
+| :------------------ | :-------------------------------------------------------------------------------------------------------- |
+| 📚 **Cybersecurity Courses** | Learning resources and completed training related to SOC, incident response, GRC, AI governance, and security operations. |
+| 🏅 **Certifications** | Current and future certifications that support my development in cybersecurity, networking, and governance. |
+| 🧠 **Continuous Learning** | Ongoing study in Python, Bash, SQL, SIEM tools, Linux, cloud, risk management, and cybersecurity frameworks. |
+
+---
+## 
+**My Hands-On Labs:**
+| Category | Description |
+| :------------------ | :-------------------------------------------------------------------------------------------------------- |
+| 🧪 **SOC Labs** | Practical exercises related to monitoring, detection, alert triage, and incident investigation. |
+| 🔍 **Threat Hunting Labs** | Hands-on activities focused on identifying suspicious behavior, indicators of compromise, and attack techniques. |
+| 🐧 **Linux & Networking Labs** | Practice labs covering troubleshooting, system administration, connectivity analysis, and secure configurations. |
+| 🛠️ **Security Tools Practice** | Exercises using tools such as Splunk, Metasploit, Python, and other cybersecurity resources. |
+
+---
+## 
+**My Career Focus:**
+| Area | Description |
+| :------------------ | :-------------------------------------------------------------------------------------------------------- |
+| 🛡️ **SOC Analyst** | Building practical skills in monitoring, log analysis, alert triage, and incident response. |
+| 📋 **GRC** | Expanding knowledge in governance, risk management, compliance, and security frameworks. |
+| 🤖 **AI Governance** | Exploring responsible AI, regulatory alignment, risk awareness, and secure AI adoption. |
+| 🌐 **Cybersecurity & IT Operations** | Combining technical support, network operations, security practices, and documentation experience. |
+
+---
+## 
+**My Contact Information:**
+| Platform | Description |
+| :------------------ | :-------------------------------------------------------------------------------------------------------- |
+| 💼 **LinkedIn** | [Connect with me professionally](https://www.linkedin.com/in/wilfridocostarica) |
+| 💻 **GitHub** | [Explore my repositories and portfolio projects](https://github.com/Echo506) |
+| 🤝 **Professional Profile** | Open to opportunities in SOC, cybersecurity, GRC, AI governance, and IT operations. |
+
+---
