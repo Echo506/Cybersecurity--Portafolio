@@ -99,7 +99,7 @@ The scenario is analyzed as a potential security incident involving suspicious a
 | Insight Nexus scenario analysis documented | ✅ Completed |
 | MITRE ATT&CK and Cyber Kill Chain mapping documented | ✅ Completed |
 | Main project page organized | ✅ Completed |
-| Evidence images collected | 🚧 In Progress |
+| Evidence images collected | ✅ Completed |
 | Incident diagram created | ✅ Completed |
 | YouTube walkthrough recorded | ⏳ Pending |
 | Final portfolio polish | 🚧 In Progress |
