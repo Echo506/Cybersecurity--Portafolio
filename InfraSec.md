@@ -5,8 +5,8 @@
 - **Current Status:** In Progress
 - **Build Stage:** Under Construction
 - **Documentation Status:** Active
-- **Evidence Collection:** Pending screenshots and execution results
-- **Video Walkthrough:** Coming soon
+- **Evidence Collection:** In Progress
+- **Video Walkthrough:** Pending
 - **Last Update:** August 2026
 
 > This project is currently being documented and expanded as part of my cybersecurity portfolio. New screenshots, findings, report samples, and a YouTube walkthrough will be added as the project evolves.
@@ -65,7 +65,7 @@ To run the script successfully, the following requirements should be met:
 
 - **PowerShell 5+**
 - **Administrative privileges**
-- **PSWindowsUpdate module** installed, in order to review pending updates
+- **PSWindowsUpdate module** installed in order to review pending updates
 
 Example installation command:
 
@@ -88,58 +88,73 @@ After execution, the script generates a `report.html` file in the same directory
 This project can be understood through the following security review areas:
 
 ### 1. Endpoint Protection
+
 Validation of UAC, Firewall, Defender, and BitLocker to verify whether the system has key protective controls enabled.
 
 ### 2. Access and Privilege Review
+
 Identification of local administrators and accounts with non-expiring passwords to support visibility over privileged access and account hygiene.
 
 ### 3. Legacy and Insecure Configuration Detection
+
 Verification of SMBv1 to detect outdated protocols that may increase attack surface.
 
 ### 4. Patch and Update Awareness
+
 Review of pending critical patches to identify whether the system may be exposed to known vulnerabilities due to missing updates.
 
 ### 5. Reporting and Documentation
+
 Generation of an HTML report to help organize findings and support follow-up actions.
+
+## Audit Steps
+
+1. Open PowerShell with administrative privileges.
+2. Ensure the required environment is available, including PowerShell 5+ and the `PSWindowsUpdate` module.
+3. Run the `audit.ps1` script from the project directory.
+4. Allow the script to review all configured security controls.
+5. Review the console output summary.
+6. Open the generated `report.html` file.
+7. Capture screenshots of execution, summary, and findings.
+8. Document the results, risks, and recommendations inside this project.
+
+## Evidence Status
+
+- ✅ Script logic documented
+- ✅ Audit scope defined
+- ✅ Security checks implemented
+- ✅ HTML report generation implemented
+- 🚧 Real execution screenshots in progress
+- 🚧 Findings documentation in progress
+- ⏳ YouTube walkthrough pending
 
 ## Evidence
 
-> The following evidence section is being prepared and will be updated as screenshots and results become available.
+> The following evidence reflects the current documentation stage of the project. Additional screenshots and updated results can be added over time.
 
-### Planned Evidence
-- Screenshot of the script execution
-- Screenshot of the generated `report.html`
-- Screenshot of relevant findings
-- Screenshot of recommendations or remediation notes
+### Script Execution
 
-### Image Placeholders
-```md
+![InfraSec Execution](images/infrasec/infrasec-execution.png)
 
-**Figure 1.** Example of script execution in PowerShell.
+**Figure 1.** PowerShell execution of the Infra-Sec-Check audit.
 
+### HTML Report
 
-**Figure 2.** HTML report generated after the audit.
+![InfraSec Report](images/infrasec/infrasec-report.png)
 
+**Figure 2.** Generated HTML report after the security audit.
 
-**Figure 3.** Sample findings identified during the security review.
-```
+### Findings Example
 
-## Video Walkthrough
+![InfraSec Findings](images/infrasec/infrasec-findings.png)
 
-> A YouTube video walkthrough will be added once the project documentation, screenshots, and evidence are fully prepared.
+**Figure 3.** Example of findings identified during the endpoint security review.
 
-### Planned Video Content
-- Project introduction
-- Script purpose and security value
-- Review of included checks
-- Execution demonstration
-- Findings review
-- Recommendations and future improvements
+## Implemented Audit Logic
 
-### Future Link
-```md
-[Watch the full walkthrough on YouTube](PASTE-YOUR-YOUTUBE-LINK-HERE)
-```
+The current version of `Infra-Sec-Check` already includes implemented logic to assess key Windows endpoint security controls, classify findings, assign severity, and generate an HTML report.
+
+This provides documented technical evidence of the project design and intended execution workflow, while additional visual evidence is being collected for future updates.
 
 ## Progress Tracker
 
@@ -149,20 +164,38 @@ Generation of an HTML report to help organize findings and support follow-up act
 | Initial script created | ✅ Completed |
 | Project purpose documented | ✅ Completed |
 | Review areas documented | ✅ Completed |
+| Audit logic documented | ✅ Completed |
 | Screenshots collected | 🚧 In Progress |
 | HTML report evidence added | 🚧 In Progress |
 | Findings section enriched | 🚧 In Progress |
 | YouTube video recorded | ⏳ Pending |
 | Final portfolio polish | ⏳ Pending |
 
+## Video Walkthrough
+
+> A YouTube video walkthrough will be added once the project documentation, screenshots, and evidence are fully prepared.
+
+### Planned Video Content
+
+- Project introduction
+- Script purpose and security value
+- Review of included checks
+- Execution demonstration
+- Findings review
+- Recommendations and future improvements
+
+### Future Link
+
+[Watch the full walkthrough on YouTube](PASTE-YOUR-YOUTUBE-LINK-HERE)
+
 ## Portfolio Value
 
 This project is part of my effort to build a cybersecurity portfolio based on practical documentation, structured analysis, and continuous improvement. Its value is not only in the script itself, but also in the ability to explain:
 
-- what was reviewed,
-- why it matters,
-- what was found,
-- and what should be improved.
+- what was reviewed
+- why it matters
+- what was found
+- what should be improved
 
 This approach supports my development in cybersecurity, SOC analysis, incident handling, infrastructure review, and technical reporting.
 
