@@ -144,13 +144,13 @@ Generation of an HTML report to help organize findings and support follow-up act
 
 ### HTML Report
 
-![InfraSec Report](images/Captura%20de%20pantalla%20de%202026-08-31%2000-00-47.png)
+![InfraSec Findings](images/Captura%20de%20pantalla%20de%202026-08-30%2023-57-55.png)
 
 **Figure 2.** Generated HTML report after the security audit.
 
 ### Findings Example
 
-![InfraSec Findings](images/Captura%20de%20pantalla%20de%202026-08-30%2023-57-55.png)
+![InfraSec Report](images/Captura%20de%20pantalla%20de%202026-08-31%2000-00-47.png)
 
 **Figure 3.** Example of findings identified during the endpoint security review.
 
