@@ -4,28 +4,34 @@
 
 ![Wilfrido Perez Romero - Cybersecurity and IT Analyst](Cyberpunkfont.png)
 
-Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, ⚖️ Law Professional, and 🛡️Cybersecurity and IT expert. You will also find valuable content on a variety of other topics :octocat: with the aim of giving back to the community and 🤝supporting everyone's professional and personal development.
+Here I share 💻 projects, ✨ aspirations as a 👨‍💻 Systems Engineer, ⚖️ Law Professional, and 🛡️ Cybersecurity and IT expert. You will also find valuable content on a variety of other topics :octocat: with the aim of giving back to the community and 🤝 supporting everyone's professional and personal development.
 
 **My Projects and Areas of Interest:**
 
 |   |   |
 |---|---|
 | Category | Description |
-| 🚀 **Git & GitHub** | [Explore my resources on version control and collaboration.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Github.md) |
-| 🐍 **Python** | [Discover my Python projects and scripts.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Python.md) |
-| 🗄️ **SQL** | [Dive into my databases and SQL queries.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/SQL.md) |
-| 📊 **Splunk** | [Data analysis and security with Splunk.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Splunk.md) |
-| ⚔️ **Metasploit** | [Tools and techniques for penetration testing.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Metasploit.md) |
-| 🛡️ **Threat Intel** | [Learn about my work on threat intelligence (MITRE ATT&CK).](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/MITRE%20ATT%26CK.md) |
+| 🚀 **Git & GitHub** | [Explore my resources on version control and collaboration.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Github.md) |
+| 🐍 **Python** | [Discover my Python projects, scripts, and cybersecurity automation exercises.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Python.md) |
+| 🗄️ **SQL** | [Explore database and SQL query exercises for analysis and reporting.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/SQL.md) |
+| 📊 **Splunk** | [Review my Splunk resources for data analysis and security monitoring.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Splunk.md) |
+| ⚔️ **Metasploit** | [Learn about penetration-testing tools and techniques.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Metasploit.md) |
+| 🛡️ **Threat Intelligence** | [Explore my MITRE ATT&CK notes and threat-intelligence resources.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/MITRE%20ATT%26CK.md) |
+| 🚨 **Incident Handling Process** | [Review my incident-handling process documentation and response workflow.](https://github.com/Echo506/Cybersecurity--Portafolio/tree/main/Incident%20Handling%20Process) |
+| 🔐 **SOC Analyst Notes** | [Explore my SOC notes, labs, alert analysis, incident response, and security automation resources.](https://github.com/Echo506/SOC-Analyst-Now-Notes) |
+| ⚙️ **SOC Automation Lab** | [Review my SOC automation lab using Wazuh, Shuffle, TheHive, Sysmon, Windows, and Ubuntu.](https://github.com/Echo506/SOC-Automation-Lab) |
+| 📋 **AI Governance & Cyber Risk Framework** | [Explore my project on AI governance, cybersecurity risk, and career development in this field.](https://github.com/Echo506/AI-Governance_Cyber-Risk-Framework) |
+| 🤖 **Leveraging AI for GRC** | [Explore my work on using AI to support governance, risk management, and compliance processes.](https://github.com/Echo506/Leveraging-AI-for-GRC) |
+| ⚖️ **Legal AI Glossary & Notes** | [Review my notes on AI applied to law, ethics, regulation, and Legal Tech.](https://github.com/Echo506/Legal-AI-Glossary-Notes) |
 
 **My Tools:**
 
 |   |   |
 |---|---|
 | Tool | Description |
-| 🔒 **Infra-Sec-Check** | [Tool for infrastructure security verification.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/InfraSec.md) |
-| 🔎 **Offensive Scan Tool** | [My tool for offensive scanning.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/OfficeScanTool.md) |
-| 🚨 **SSH Detector** | [Alert system for SSH detections.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/SSHDetector.md) |
+| 🔒 **Infra-Sec-Check** | [Tool for infrastructure security verification.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/InfraSec.md) |
+| 🔎 **Offensive Scan Tool** | [My tool for offensive scanning and security assessment.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/OfficeScanTool.md) |
+| 🚨 **SSH Detector** | [Security tool and alert system for SSH detections.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/SSHDetector.md) |
 
 **My Certifications and Courses:**
 
@@ -63,9 +69,9 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 |   |   |
 |---|---|
 | Language | Description |
-| 🇫🇷 **French** | [Resources and projects related to the French language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/French.md) |
-| 🇧🇷 **Portuguese** | [Content and learning in Portuguese.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Portugues.md) |
-| 🇨🇳 **Chinese** | [My progress and resources in the Chinese language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Chinesse.md) |
+| 🇫🇷 **French** | [Resources and projects related to the French language.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/French.md) |
+| 🇧🇷 **Portuguese** | [Content and learning in Portuguese.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Portugues.md) |
+| 🇨🇳 **Chinese** | [My progress and resources in the Chinese language.](https://github.com/Echo506/Cybersecurity--Portafolio/blob/main/Chinesse.md) |
 
 **My Contact Information:**
 
