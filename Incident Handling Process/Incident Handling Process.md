@@ -71,6 +71,22 @@ The scenario is analyzed as a potential security incident involving suspicious a
 
 **Figure 1.** Incident-handling lifecycle applied to the simulated Insight Nexus Breach scenario, covering preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
 
+![Incident Timeline](../images/Gemini_Generated_Image_tczo4dtczo4dtczo.jfif)
+
+**Figure 2.** Simulated incident timeline showing the progression from initial detection through post-incident review.
+
+![Incident Severity Matrix](../images/Gemini_Generated_Image_5950n15950n15950.jfif)
+
+**Figure 3.** Severity and classification reference matrix used to support simulated incident prioritization.
+
+![Containment and Recovery Flow](../images/Gemini_Generated_Image_vn66s1vn66s1vn66.jfif)
+
+**Figure 4.** Illustrative ATT&CK-style mapping used to provide context for the simulated incident scenario.
+
+![ATT&CK Mapping](../images/Gemini_Generated_Image_udv94yudv94yudv9.jfif)
+
+**Figure 5.** Decision flow for containment, eradication, recovery, and incident closure in the simulated scenario.
+
 ## Progress Tracker
 
 | Task | Status |
