@@ -39,12 +39,14 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 
 **My Hands-On Labs:**
 
-| Category | Description |
+|   |   |
 |---|---|
+| Category | Description |
 | 🧪 **SOC Labs** | Practical exercises related to monitoring, detection, alert triage, and incident investigation. |
 | 🔍 **Threat Hunting Labs** | Hands-on activities focused on identifying suspicious behavior, indicators of compromise, and attack techniques. |
 | 🐧 **Linux & Networking Labs** | Practice labs covering troubleshooting, system administration, connectivity analysis, and secure configurations. |
 | 🛠️ **Security Tools Practice** | Exercises using tools such as Splunk, Metasploit, Python, and other cybersecurity resources. |
+| 🧠 **Hack The Box** | Hands-on cybersecurity labs focused on offensive security, defensive analysis, privilege escalation, enumeration, and practical problem-solving. |
 
 **My Career Focus:**
 
