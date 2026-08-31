@@ -39,7 +39,7 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 | 🇫🇷 **French** | [Resources and projects related to the French language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/French.md) |
 | 🇧🇷 **Portuguese** | [Content and learning in Portuguese.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Portugues.md) |
 | 🇨🇳 **Chinese** | [My progress and resources in the Chinese language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Chinesse.md) |
-```
+
 **My Certifications and Courses:**
 
 | Category | Description |
@@ -73,4 +73,3 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 | 💼 **LinkedIn** | [Connect with me professionally](https://www.linkedin.com/in/wilfridocostarica) |
 | 💻 **GitHub** | [Explore my repositories and portfolio projects](https://github.com/Echo506) |
 | 🤝 **Professional Profile** | Open to opportunities in SOC, cybersecurity, GRC, AI governance, and IT operations. |
----
