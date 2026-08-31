@@ -64,24 +64,12 @@ The scenario is analyzed as a potential security incident involving suspicious a
 - MITRE ATT&CK mapping
 - Containment and recovery decision flow
 - Lessons-learned summary
+
 ## Evidence
 
 ![Incident Lifecycle Diagram](../images/incident-lifecycle.png.jfif)
 
-**Figure 1.** Incident-handling lifecycle used in the simulated Insight Nexus Breach scenario.
-
-```md
-
-
-**Figure 1.** Incident-handling lifecycle used in this simulated scenario.
-
-
-
-**Figure 2.** Simulated timeline of detection, analysis, containment, recovery, and closure.
-
-
-**Figure 3.** Example of attack-technique mapping used to provide context during analysis.
-```
+**Figure 1.** Incident-handling lifecycle applied to the simulated Insight Nexus Breach scenario, covering preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
 
 ## Progress Tracker
 
