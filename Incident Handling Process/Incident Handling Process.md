@@ -66,7 +66,7 @@ The scenario is analyzed as a potential security incident involving suspicious a
 - Lessons-learned summary
 ## Evidence
 
-![Incident Lifecycle Diagram](../images/incident-handling/incident-lifecycle.png)
+![Incident Lifecycle Diagram](../images/incident-handling/incident-lifecycle.png.jfif)
 
 **Figure 1.** Incident-handling lifecycle used in the simulated Insight Nexus Breach scenario.
 
