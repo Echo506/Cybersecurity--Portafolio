@@ -3,7 +3,7 @@
 ## Welcome to my space.
 
 ![Wilfrido Perez Romero - Cybersecurity and IT Analyst](Cyberpunkfont.png)
-_You can connect with me on [LinkedIn](https://www.linkedin.com/in/wilfridocostarica)._
+
 
 Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, ⚖️ Law Professional, and 🛡️Cybersecurity and IT expert. You will also find valuable content on a variety of other topics :octocat: with the aim of giving back to the community and 🤝supporting everyone's professional and personal development.
 
