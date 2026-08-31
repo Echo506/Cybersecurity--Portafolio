@@ -66,7 +66,7 @@ The scenario is analyzed as a potential security incident involving suspicious a
 - Lessons-learned summary
 ## Evidence
 
-![Incident Lifecycle Diagram](../images/incident-handling/incident-lifecycle.png.jfif)
+![Incident Lifecycle Diagram](../images/incident-lifecycle.png.jfif)
 
 **Figure 1.** Incident-handling lifecycle used in the simulated Insight Nexus Breach scenario.
 
@@ -95,8 +95,8 @@ The scenario is analyzed as a potential security incident involving suspicious a
 | Insight Nexus scenario analysis documented | ✅ Completed |
 | MITRE ATT&CK and Cyber Kill Chain mapping documented | ✅ Completed |
 | Main project page organized | ✅ Completed |
-| Evidence images collected | ⏳ Pending |
-| Incident diagram created | ⏳ Pending |
+| Evidence images collected | 🚧 In Progress |
+| Incident diagram created | ✅ Completed |
 | YouTube walkthrough recorded | ⏳ Pending |
 | Final portfolio polish | 🚧 In Progress |
 
