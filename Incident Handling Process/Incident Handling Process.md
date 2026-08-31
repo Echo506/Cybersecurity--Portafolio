@@ -80,7 +80,6 @@ The scenario is analyzed as a potential security incident involving suspicious a
 **Figure 2.** Simulated timeline of detection, analysis, containment, recovery, and closure.
 
 
-
 **Figure 3.** Example of attack-technique mapping used to provide context during analysis.
 ```
 
